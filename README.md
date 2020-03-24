@@ -15,3 +15,5 @@ python3 train.py --lr 0.000001 --optimizer adam --batch_size 16 --epoch 100
 
 If anything doesn't work, just leave an issue. I wrote this script up in less than an hour so there's bound to be error.
 
+Together with the power of deep learning we can cure the corona!
+
