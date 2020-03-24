@@ -18,6 +18,3 @@ If anything doesn't work, just leave an issue. I wrote this script up in less th
 Together with the power of deep learning we can cure the corona!
 
 ![alt text](https://github.com/sunjesse/covid19_xray_diagnosis/blob/master/wat.png)
-<p align="center">
-  <src="https://github.com/sunjesse/covid19_xray_diagnosis/blob/master/wat.png">
-</p>
