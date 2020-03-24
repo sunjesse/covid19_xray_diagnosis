@@ -19,5 +19,5 @@ Together with the power of deep learning we can cure the corona!
 
 ![alt text](https://github.com/sunjesse/covid19_xray_diagnosis/blob/master/wat.png)
 <p align="center">
-  <src="ttps://github.com/sunjesse/covid19_xray_diagnosis/blob/master/wat.png">
+  <src="https://github.com/sunjesse/covid19_xray_diagnosis/blob/master/wat.png">
 </p>
