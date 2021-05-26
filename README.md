@@ -1,5 +1,5 @@
 # covid19_xray_diagnosis
-PyTorch code template for those who want to diagnose COVID-19 from x-ray scans.
+PyTorch code template to diagnose COVID-19 from x-ray scans.
 
 We greatly thank Wang et al. 2020 for the preprocessed data. Please visit their repository and cite their work if you find the data or their method helpful: https://github.com/lindawangg/COVID-Net.
 We just wrote this script and pipelined everything together in PyTorch for PyTorch users.
