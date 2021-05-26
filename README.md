@@ -1,5 +1,5 @@
 # covid19_xray_diagnosis
-PyTorch code template for those who want to cure coronavirus from x-ray scans.
+PyTorch code template for those who want to diagnose COVID-19 from x-ray scans.
 
 We greatly thank Wang et al. 2020 for the preprocessed data. Please visit their repository and cite their work if you find the data or their method helpful: https://github.com/lindawangg/COVID-Net.
 We just wrote this script and pipelined everything together in PyTorch for PyTorch users.
@@ -12,9 +12,3 @@ Once that is done, as long as you have a GPU (get rid of the .cuda() substrings 
 ```
 python3 train.py --lr 0.000001 --optimizer adam --batch_size 16 --epoch 100
 ```
-
-If anything doesn't work, just leave an issue. I wrote this script up in less than an hour so there's bound to be error.
-
-Together with the power of deep learning we can cure the corona!
-
-![alt text](https://github.com/sunjesse/covid19_xray_diagnosis/blob/master/wat.png)
